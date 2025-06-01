@@ -1,4 +1,4 @@
-{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -103,5 +103,5 @@
   
   .link {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none
   }
